@@ -19,3 +19,4 @@ In This playlist I have been Covered the basics of Machine Learning. In Which I 
   * ARIMA and Differencing Techniques
 
 In this playlist everthing is cleared like Data Cleaning , Data Preprocessing, Data Sampling, Model Building , accuracy of the model , Data Visualizations, etc .
+You can refer the Machine_Learning_compressed.pdf
