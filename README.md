@@ -1,5 +1,5 @@
 # Machine_Learning
-In This playlist I have been Covered the basics of Machine Learning. In Which I have been Used the python Libraries Like Numpy , Pandas , Seaborn , Matplotlib , etc
+In This playlist I have been Covered the basics of Machine Learning. In Which I have been Used the python Libraries Like Numpy , Pandas , Seaborn , Matplotlib , etc. and i have been already uploaded the Dataset you can use it.
 
 1] Supervised Learning
   * Linear Regression
